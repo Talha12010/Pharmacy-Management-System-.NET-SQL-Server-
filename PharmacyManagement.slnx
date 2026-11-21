@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/PharmacyManagement.API/PharmacyManagement.API.csproj" />
+    <Project Path="src/PharmacyManagement.Application/PharmacyManagement.Application.csproj" />
+    <Project Path="src/PharmacyManagement.Domain/PharmacyManagement.Domain.csproj" />
+    <Project Path="src/PharmacyManagement.Infrastructure/PharmacyManagement.Infrastructure.csproj" />
+    <Project Path="src/PharmacyManagement.WinForms/PharmacyManagement.WinForms.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/PharmacyManagement.Tests/PharmacyManagement.Tests.csproj" />
+  </Folder>
+</Solution>
